@@ -9,7 +9,7 @@ The Art Wallpaper app stores and processes personal data that you have provided 
 The app does use third-party services that declare their Terms and Conditions.
 
 Link to Terms and Conditions of third-party service providers used by the app
-*   [Unsplash](https://)
+*   [Unsplash](https://unsplash.com/terms)
 *   [Google Play Services](https://policies.google.com/terms)
 *   [AdMob](https://developers.google.com/admob/terms)
 *   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
